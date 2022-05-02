@@ -1,4 +1,4 @@
-# APP development--Calculator*
+# APP development--Calculator
 
 ## Layout design
 
